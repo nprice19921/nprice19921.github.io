@@ -1,2 +1,2 @@
 
-  alert("test");
+document.write("tester");
