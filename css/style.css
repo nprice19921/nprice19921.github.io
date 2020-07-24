@@ -1,0 +1,19 @@
+.column {
+  float: left;
+  width: 33.33%;
+  margin: auto;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+
+html{background-color: #5F9EA0;
+  max-width: 960px;
+  margin: auto;
+}
